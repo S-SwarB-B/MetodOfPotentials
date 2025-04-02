@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodOfPotentials_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a9fa045bbc164463f1b6b0f0a45522fbba72fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodOfPotentials_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodOfPotentials_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

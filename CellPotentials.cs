@@ -125,7 +125,7 @@ namespace MethodOfPotentials_C_
             {
                 for(int j = 0; j < V.Length; j++)
                 {
-                    if(Glavmass[i,j] == 0 && triangle_count < 7)
+                    if(Glavmass[i,j] == 0 && triangle_count < Degeneracy)
                     {
                         triangle[triangle_count++] = U[i] + V[j] - Cost[i,j];
                     }
@@ -207,6 +207,7 @@ namespace MethodOfPotentials_C_
                         }
                     }
                     Console.WriteLine($"LX: {Lx}");
+                    break;
                 }
             }
         }

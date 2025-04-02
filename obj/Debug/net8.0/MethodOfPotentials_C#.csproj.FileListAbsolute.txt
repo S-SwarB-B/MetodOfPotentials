@@ -12,3 +12,4 @@ D:\Programming\C#\MethodOfPotentials_C#\obj\Debug\net8.0\refint\MethodOfPotentia
 D:\Programming\C#\MethodOfPotentials_C#\obj\Debug\net8.0\MethodOfPotentials_C#.pdb
 D:\Programming\C#\MethodOfPotentials_C#\obj\Debug\net8.0\MethodOfPotentials_C#.genruntimeconfig.cache
 D:\Programming\C#\MethodOfPotentials_C#\obj\Debug\net8.0\ref\MethodOfPotentials_C#.dll
+D:\Programming\C#\MethodOfPotentials_C#\obj\Debug\net8.0\MethodOfPotentials_C#.sourcelink.json
